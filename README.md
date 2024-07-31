@@ -12,7 +12,7 @@ Key Features
 - Data Analysis: Generate insights and reports to assist administrators in monitoring and managing attendance trends.
 
 Flowchart : 
-- ![Flowchart](images/myAT_flowchart)
+- ![Flowchart](C:\Users\DEEKSHA\OneDrive\Desktop\myAT_flowchart)
 
 Working :
 

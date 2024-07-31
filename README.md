@@ -11,6 +11,9 @@ Key Features
 - Automated Notifications: Send notifications to students and faculty about attendance-related updates.
 - Data Analysis: Generate insights and reports to assist administrators in monitoring and managing attendance trends.
 
+Flowchart : 
+- ![Flowchart](images/flowchart.jpeg)
+
 Working :
 
 Teachers can mark attendance by selecting the section they want to take attendance for. Our 

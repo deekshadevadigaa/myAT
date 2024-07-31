@@ -12,7 +12,7 @@ Key Features
 - Data Analysis: Generate insights and reports to assist administrators in monitoring and managing attendance trends.
 
 Flowchart : 
-- ![Flowchart](myAT_flowchart.jpeg)
+![Flowchart](myAT_flowchart.jpeg)
 
 Working :
 
